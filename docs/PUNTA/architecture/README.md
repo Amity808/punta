@@ -31,6 +31,7 @@
 | 08 | [Infrastructure](./08-infrastructure.md) | Deployment, CI/CD, monitoring, scaling |
 | 09 | [Security](./09-security.md) | Auth, RBAC, data protection, compliance |
 | 10 | [Integrations](./10-integrations.md) | External services (Paystack, WhatsApp, logistics) |
+| 11 | [Load Balancing](./11-load-balancer.md) | Load balancing principles, algorithms, and application routing |
 
 ## Roadmap
 
